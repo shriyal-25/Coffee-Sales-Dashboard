@@ -6,7 +6,8 @@
 
 
 
-!\[Dashboard Preview](screenshots/dashboard\_overview.png)
+<img width="1297" height="739" alt="Screenshot 2026-06-09 215220" src="https://github.com/user-attachments/assets/39fd4642-3633-421c-ab6e-862b5343069e" />
+
 
 
 
